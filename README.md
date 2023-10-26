@@ -1,6 +1,6 @@
   ## Oi!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=96jentle&layout=compact&langs_count=10&theme=dracula)](https://github.com/96jentle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=96jentle&layout=compact&langs_count=10&theme=dracula)](https://github.com/decalmania/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +12,6 @@
  
 <div> 
   <a href = "luisalacerdamendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisamendes2004" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luisalmendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
